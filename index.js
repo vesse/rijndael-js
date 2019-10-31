@@ -1,1 +1,3 @@
-module.exports = require('./lib/rijndael-block');
+"use strict";
+
+module.exports = require("./lib/rijndael-block");
